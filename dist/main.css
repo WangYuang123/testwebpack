@@ -1,0 +1,12 @@
+body{
+ color: yellow;
+}
+body{
+ background: red;
+ border: 5px solid yellow;
+ transform: rotate(45deg);
+}
+body div {
+  color: yellow;
+}
+
